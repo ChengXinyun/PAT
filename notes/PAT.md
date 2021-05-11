@@ -57,4 +57,7 @@
        例如：Please be accurate to 1 decimal place.保留一位小数：`printf("%.1f", f);`
 
      - `scanf比cin快`；
+   
+3. `double和float`
 
+4. 使用辅助数组时，确定它的范围；相加还是原来数组大小，乘积会扩大一倍；
