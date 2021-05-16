@@ -6,5 +6,6 @@
     - [1009	Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344)
     - [1042 Shuffling Machine](https://pintia.cn/problem-sets/994805342720868352/problems/994805442671132672)
     - [1046 Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/problems/994805435700199424)
+    - [1065 A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/problems/994805406352654336)
   - 字符串处理
     - [1001	A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400)
