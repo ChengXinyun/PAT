@@ -59,6 +59,8 @@
      - `scanf比cin快`；
      
      - 最好都使用`scanf`输入吧，1065我用`cin`输入`long long`类型的数提交之后样例有的过不了；
+     
+     - `scanf`输入的时候不要忘记&！！！！！！！！！；
    
 3. `double和float`
 
