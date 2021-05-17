@@ -8,5 +8,7 @@
     - [1042 Shuffling Machine](https://github.com/ChengXinyun/PAT/blob/main/code/PAT1042.cpp)
     - [1046 Shortest Distance](https://github.com/ChengXinyun/PAT/blob/main/code/PAT1046.cpp)
     - [1065 A+B and C (64bit)](https://github.com/ChengXinyun/PAT/blob/main/code/PAT1065.cpp)
+  - 查找元素
+    - [1011 World Cup Betting](https://github.com/ChengXinyun/PAT/blob/main/code/PAT1011.cpp)
   - 字符串处理
     - [1001	A+B Format](https://github.com/ChengXinyun/PAT/blob/main/code/PAT1001.cpp)
