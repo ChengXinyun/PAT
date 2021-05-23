@@ -8,7 +8,6 @@ int main(){
 	for(int i = 0; i < 3; i++){
 		float w, t, l, m;
 		scanf("%f%f%f", &w, &t, &l);
-		cout << "sss";
 		m = max(w, max(t, l));
 		mul *= m;
 		if(m == w)	s += "W ";
