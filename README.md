@@ -1,14 +1,15 @@
 # PAT
 ### PAT刷题
-#### [PAT甲级题目地址](https://pintia.cn/problem-sets/994805342720868352/problems/type/7)
+#### [PAT甲级题目代码地址](https://github.com/ChengXinyun/PAT/tree/main/code)
 1. 入门模拟
   - 简单模拟
-    - [1002	A+B for Polynomials](https://github.com/ChengXinyun/PAT/blob/main/code/PAT1002.cpp)
-    - [1009	Product of Polynomials](https://github.com/ChengXinyun/PAT/blob/main/code/PAT1009.cpp)
-    - [1042 Shuffling Machine](https://github.com/ChengXinyun/PAT/blob/main/code/PAT1042.cpp)
-    - [1046 Shortest Distance](https://github.com/ChengXinyun/PAT/blob/main/code/PAT1046.cpp)
-    - [1065 A+B and C (64bit)](https://github.com/ChengXinyun/PAT/blob/main/code/PAT1065.cpp)
+    - [1002	A+B for Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805526272000000)
+    - [1009	Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344)
+    - [1042 Shuffling Machine](https://pintia.cn/problem-sets/994805342720868352/problems/994805442671132672)
+    - [1046 Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/problems/994805435700199424)
+    - [1065 A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/problems/994805406352654336)
   - 查找元素
-    - [1011 World Cup Betting](https://github.com/ChengXinyun/PAT/blob/main/code/PAT1011.cpp)
+    - [1011 World Cup Betting](https://pintia.cn/problem-sets/994805342720868352/problems/994805504927186944)
+    - [1006 Sign In and Sign Out](https://pintia.cn/problem-sets/994805342720868352/problems/994805516654460928)
   - 字符串处理
-    - [1001	A+B Format](https://github.com/ChengXinyun/PAT/blob/main/code/PAT1001.cpp)
+    - [1001	A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400)
