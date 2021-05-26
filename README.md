@@ -14,5 +14,7 @@
     - [1036 Boys vs Girls](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016)
   - 图形输出(找规律)
     - [1031 Hello World for U](https://pintia.cn/problem-sets/994805342720868352/problems/994805462535356416)
+  - 进制转换
+    - [1019 General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984)
   - 字符串处理
     - [1001	A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400)
