@@ -17,5 +17,6 @@
   - 进制转换
     - [1019 General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984)
     - [1027 Colors in Mars](https://pintia.cn/problem-sets/994805342720868352/problems/994805470349344768)
+    - [1058 A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232)
   - 字符串处理
     - [1001	A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400)
