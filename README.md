@@ -20,3 +20,4 @@
     - [1058 A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232)
   - 字符串处理
     - [1001	A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400)
+    - [1005 Spell It Right](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336)
