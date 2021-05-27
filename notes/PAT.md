@@ -24,6 +24,8 @@
    string c = to_string(a + b);
    ```
 
+   将数字字符转化为数字：`str[i] - '0';`与字母一样的思路；
+
 2. 输入与输出的使用
 
    - `scanf`和`printf`
