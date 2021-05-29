@@ -22,3 +22,4 @@
     - [1001	A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400)
     - [1005 Spell It Right](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336)
     - [1035 Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520)
+    - [1061 Dating](https://pintia.cn/problem-sets/994805342720868352/problems/994805411985604608)
