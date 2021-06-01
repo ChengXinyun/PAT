@@ -52,12 +52,19 @@
 
    - `cin`和`cout`
 
+   - `getline`:输入一行字符串，可以包含空格；但是假如之前用`scanf`输入时，记得在`scanf`里面加入`\n`换行;
+
+     ```c++
+  scanf("%d\n", &n);
+     getline(cin, str);
+  ```
+   
    - 两者的使用：
-
+   
      - 有格式控制的输出使用`printf`较好；
-
+   
        例如：Please be accurate to 1 decimal place.保留一位小数：`printf("%.1f", f);`
-
+   
      - `scanf比cin快`；
      
      - 最好都使用`scanf`输入吧，1065我用`cin`输入`long long`类型的数提交之后样例有的过不了；
@@ -115,5 +122,9 @@
     toupper();//把字符串都转化为大写字母；
     ```
 
-    
+13. ```c++
+    #include <algorithm>
+    reverse(str.begin(), str.end());//倒置字符串；
+    ```
 
+14. `substr(start, length);`分割字符串；从string的start位置开始提取字符串 ，length:要提取字符串的长度
