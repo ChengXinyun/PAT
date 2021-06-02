@@ -27,3 +27,4 @@
     - [1082 Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624)  **16/25**
 2. 算法初步
   - 排序
+    - [1025 PAT Ranking](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872)
