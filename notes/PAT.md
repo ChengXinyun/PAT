@@ -128,3 +128,27 @@
     ```
 
 14. `substr(start, length);`分割字符串；从string的start位置开始提取字符串 ，length:要提取字符串的长度
+
+15. 排序题和`sort`函数的应用：
+
+    1. 相关结构体的定义
+
+       ```c++
+       struct Student{
+       	char name[10];
+       	char id[10];
+       	int score;
+       	int r;
+       }stu[100010];//表示stu是一个数组，里面的每一个元素都是一个结构体；
+       ```
+
+    2. `cmp`函数的编写
+
+       ```c++
+       bool cmp(Student a, Student b){
+       	if(a.score != b.score)	return a.score > b.score;//按成绩降序排列
+       	else	return strcmp(a.name, b.name) < 0;//成绩一样按姓名字典序小的排前面；
+       }
+       ```
+
+       `strcmp(str1, str2)`: `str1`的字典序小于`str2`时返回一个负数，相等时返回0，大于时返回一个正数；
