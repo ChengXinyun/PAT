@@ -55,16 +55,16 @@
    - `getline`:输入一行字符串，可以包含空格；但是假如之前用`scanf`输入时，记得在`scanf`里面加入`\n`换行;
 
      ```c++
-  scanf("%d\n", &n);
+    scanf("%d\n", &n);
      getline(cin, str);
-  ```
-   
+     ```
+
    - 两者的使用：
    
      - 有格式控制的输出使用`printf`较好；
-   
+     
        例如：Please be accurate to 1 decimal place.保留一位小数：`printf("%.1f", f);`
-   
+     
      - `scanf比cin快`；
      
      - 最好都使用`scanf`输入吧，1065我用`cin`输入`long long`类型的数提交之后样例有的过不了；
@@ -74,7 +74,7 @@
      - 输入字符串的时候使用`cin`输入；
      
      - 格式化输入的时候使用`scanf`较为方便，例如："`HH:MM:SS`"；
-   
+
 3. `double和float`
 
 4. 循环输出的时候，次数为n次，如果输出的需要输出序号，例如#1，#2....，可以使用for循环；其他情况可以使用while循环；
