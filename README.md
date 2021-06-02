@@ -25,3 +25,5 @@
     - [1061 Dating](https://pintia.cn/problem-sets/994805342720868352/problems/994805411985604608)
     - [1077 Kuchiguse](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096)
     - [1082 Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624)  **16/25**
+2. 算法初步
+  - 排序
