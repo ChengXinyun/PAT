@@ -28,3 +28,4 @@
 2. 算法初步
   - 排序
     - [1025 PAT Ranking](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872)
+    - [1028 List Sorting](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240)
