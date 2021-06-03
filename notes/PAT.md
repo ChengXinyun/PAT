@@ -36,6 +36,8 @@
 
      `printf("格式控制", 变量名称);`
 
+     格式化输出：使用前导0进行占位：`printf("%06d", n);`
+
      例如：`scanf("%f", f);`
 
      **注：输出时前面不用加&；**
@@ -55,12 +57,12 @@
    - `getline`:输入一行字符串，可以包含空格；但是假如之前用`scanf`输入时，记得在`scanf`里面加入`\n`换行;
 
      ```c++
-    scanf("%d\n", &n);
+   scanf("%d\n", &n);
      getline(cin, str);
      ```
 
    - 两者的使用：
-   
+
      - 有格式控制的输出使用`printf`较好；
      
        例如：Please be accurate to 1 decimal place.保留一位小数：`printf("%.1f", f);`
