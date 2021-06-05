@@ -27,6 +27,7 @@
     - [1082 Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624)  **16/25**
 2. 算法初步
   - 排序
+    - [1016 Phone Bills](https://pintia.cn/problem-sets/994805342720868352/problems/994805493648703488)   **0/25**
     - [1025 PAT Ranking](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872)
     - [1028 List Sorting](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240)
     - [1055 The World's Richest](https://pintia.cn/problem-sets/994805342720868352/problems/994805421066272768)
