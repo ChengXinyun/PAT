@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-	char s1[100000], s2[100000];
+	string s1, s2[100000];
 	cin.getline(s1, 100000);
 	cin.getline(s2, 100000);
 	// cout << s1 << s2;
