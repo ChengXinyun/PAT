@@ -33,3 +33,4 @@
     - [1055 The World's Richest](https://pintia.cn/problem-sets/994805342720868352/problems/994805421066272768)
   - 散列
     - [1041 Be Unique](https://pintia.cn/problem-sets/994805342720868352/problems/994805444361437184)
+    - [1092 To Buy or Not to Buy](https://pintia.cn/problem-sets/994805342720868352/problems/994805374509498368)
