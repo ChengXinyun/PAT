@@ -167,3 +167,9 @@
     	int m;
     }list[maxn];
     ```
+
+17. string 的find用法，用于查找当前字符串是否含有子串
+
+    `s2.find(s1[i]) == string::npos`表示没有找到
+
+    `toupper(str);`化为大写
