@@ -37,3 +37,5 @@
     - [1050 String Subtraction](https://pintia.cn/problem-sets/994805342720868352/problems/994805429018673152)
     - [1084 Broken Keyboard](https://pintia.cn/problem-sets/994805342720868352/problems/994805382902300672)
     - [1092 To Buy or Not to Buy](https://pintia.cn/problem-sets/994805342720868352/problems/994805374509498368)
+  - 贪心
+    - [1070 Mooncake](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376)
