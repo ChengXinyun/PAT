@@ -40,3 +40,4 @@
   - 贪心
     - [1070 Mooncake](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376)
     - [1033 To Fill or Not to Fill](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080)   **0/25**
+    - [1037 Magic Coupon](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472)
