@@ -185,3 +185,32 @@
      `cin.getline(s2, 100000);`
 
     在答案部分正确的情况，数组可能开小了，1050那一题我开了10000，有两个错误答案，在扩大十倍，答案就正确了。
+
+20. lower_bound,upper_bound,binary_search函数：
+
+    头文件：#include <algorithm>
+
+    lower_bound(起始地址，结束地址，要查找的数值) 返回的是数值 **第一个** 出现的位置。如果所有元素都小于val，则返回last的位置.
+
+    upper_bound(起始地址，结束地址，要查找的数值) 返回的是 第一个大于待查找数值 出现的位置。
+
+    binary_search(起始地址，结束地址，要查找的数值)  返回的是是否存在这么一个数，是一个**bool值**。
+
+    ```c++
+    void main()
+    {
+        vector<int> t;
+        t.push_back(1);
+        t.push_back(2);
+        t.push_back(3);
+        t.push_back(4);
+        t.push_back(6);
+        t.push_back(7);
+        t.push_back(8);
+        int low=lower_bound(t.begin(),t.end(),5)-t.begin();
+        int upp=upper_bound(t.begin(),t.end(),5)-t.begin();
+        cout<<low<<endl;
+        cout<<upp<<endl;
+        system("pause");
+    }
+    ```
