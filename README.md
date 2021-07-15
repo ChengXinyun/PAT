@@ -43,3 +43,5 @@
     - [1037 Magic Coupon](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472)
     - [1038 Recover the Smallest Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704)
     - [1067 Sort with Swap(0, i)](https://pintia.cn/problem-sets/994805342720868352/problems/994805403651522560)
+  - 二分查找
+    - [1085 Perfect Sequence](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064)
