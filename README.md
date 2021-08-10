@@ -45,3 +45,5 @@
     - [1067 Sort with Swap(0, i)](https://pintia.cn/problem-sets/994805342720868352/problems/994805403651522560)
   - 二分查找
     - [1085 Perfect Sequence](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064)
+  - 简单数学
+    - [1069 The Black Hole of Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805400954585088)
