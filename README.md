@@ -47,3 +47,4 @@
     - [1085 Perfect Sequence](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064)
   - 简单数学
     - [1069 The Black Hole of Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805400954585088)
+    - [1104 Sum of Number Segments](https://pintia.cn/problem-sets/994805342720868352/problems/994805363914686464)  **17/20**
